@@ -1,4 +1,4 @@
-# Data clening and preprocvessing of a file
+## Data clening and preprocessing of a file
 
 1. Importing the Data
 2. Checking for Incomplete Data
