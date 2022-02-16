@@ -3,3 +3,4 @@
 2. For Loops
 3. Dictionaries
 4. Handling files
+5. Working with diagrams and charts
