@@ -4,3 +4,4 @@
 3. Dictionaries
 4. Handling files
 5. Working with diagrams and charts
+6. Classes
