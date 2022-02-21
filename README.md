@@ -8,3 +8,4 @@
 7. Functions and Recursion
 8. Classes
 9. Stacks
+10. Numpy practice
