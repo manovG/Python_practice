@@ -5,5 +5,6 @@
 4. Handling files
 5. Working with diagrams and charts
 6. Matplotlib
-7. Classes
-8. Stacks
+7. Recursion
+8. Classes
+9. Stacks
