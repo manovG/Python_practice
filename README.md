@@ -1,7 +1,7 @@
 # Python_practice
 1. Conditionals
 2. For Loops
-3. Dictionaries
+3. Data structures (Dictionaries, Lists, Tuples, Sets) 
 4. Handling files
 5. Working with diagrams and charts
 6. Matplotlib
