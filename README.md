@@ -4,5 +4,6 @@
 3. Dictionaries
 4. Handling files
 5. Working with diagrams and charts
-6. Classes
-7. Stacks
+6. Matplotlib
+7. Classes
+8. Stacks
