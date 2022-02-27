@@ -8,4 +8,5 @@
 7. Functions and Recursion
 8. Classes
 9. Stacks
-10. Numpy - cleaning and preprocessing data
+10. Search and Sort
+11. Numpy - cleaning and preprocessing data
