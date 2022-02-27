@@ -29,12 +29,12 @@ def binary_search(list_input, value):
 binary_search(l2, 2)
 
 
-def linear_search(item, my_list):
+def linear_search(list_input, value):
     i = 0 
     found = False
     
-    while i < len(my_list) and found == False:
-        if my_list[i] == item:
+    while i < len(list_input) and found == False:
+        if list_input[i] == value:
             found = True
         else:
             i = i + 1
