@@ -9,4 +9,5 @@
 8. Classes
 9. Stacks
 10. Search and Sort
-11. Numpy - cleaning and preprocessing data
+11. Regular expressions
+12. Numpy - cleaning and preprocessing data
